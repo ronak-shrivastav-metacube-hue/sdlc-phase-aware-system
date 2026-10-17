@@ -1,0 +1,12 @@
+# Environment variables
+.env
+
+# Python virtual environment
+venv/
+.venv
+__pycache__/
+*.pyc
+
+# Local storage and logs (optional, agar sirf code push karna hai)
+# data/
+# artifacts/

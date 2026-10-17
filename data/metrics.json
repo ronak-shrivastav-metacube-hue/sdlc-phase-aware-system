@@ -1,0 +1,13 @@
+{
+    "total_interactions": 3,
+    "successful_interactions": 2,
+    "failed_interactions": 1,
+    "phase_counts": {
+        "implementation": 1,
+        "requirements": 1
+    },
+    "total_response_time": 9.742584943771362,
+    "recent_errors": [
+        "[2026-10-17 22:59:59] Description is too short (minimum 10 characters required)."
+    ]
+}

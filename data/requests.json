@@ -1,0 +1,156 @@
+[
+    {
+        "id": "1",
+        "description": "Add user login to website",
+        "client": "Jone Deo",
+        "project": "Stonex",
+        "timestamp": "2026-10-16 17:34:32"
+    },
+    {
+        "id": "2",
+        "description": "Create customer database",
+        "client": "Beta LLC",
+        "project": "Backend Core",
+        "timestamp": "2026-10-16 17:35:49"
+    },
+    {
+        "id": "3",
+        "description": "Test payment system",
+        "client": "Gamma Inc",
+        "project": "Checkout API",
+        "timestamp": "2026-10-16 17:37:21"
+    },
+    {
+        "id": "4",
+        "description": "I want to create a new resturant management project in fastAPI",
+        "client": "MetaFood",
+        "project": "MetaFood",
+        "timestamp": "2026-10-17 19:49:42"
+    },
+    {
+        "id": "5",
+        "description": "Create a database with all requeired tables",
+        "client": "MetaFood",
+        "project": "MetaFood",
+        "timestamp": "2026-10-17 19:50:12"
+    },
+    {
+        "id": "6",
+        "description": "Also create react latest application for manage front-end",
+        "client": "MetaFood",
+        "project": "MetaFood",
+        "timestamp": "2026-10-17 19:50:53"
+    },
+    {
+        "id": "7",
+        "description": "Add user login to website",
+        "client": "MetaFood",
+        "project": "MetaFood",
+        "timestamp": "2026-10-17 21:25:36",
+        "phase": "implementation",
+        "confidence": "High"
+    },
+    {
+        "id": "8",
+        "description": "Test payment system",
+        "client": "MetaFood",
+        "project": "MetaFood",
+        "timestamp": "2026-10-17 21:26:47",
+        "phase": "testing",
+        "confidence": "High"
+    },
+    {
+        "id": "9",
+        "description": "Add user login to website",
+        "client": "MetaFood",
+        "project": "MetaFood",
+        "timestamp": "2026-10-17 21:39:55",
+        "phase": "implementation",
+        "confidence": "High"
+    },
+    {
+        "id": "10",
+        "description": "How to create member",
+        "client": "MetaFood",
+        "project": "MetaFood",
+        "timestamp": "2026-10-17 21:42:00",
+        "phase": "implementation",
+        "confidence": "High"
+    },
+    {
+        "id": "11",
+        "description": "Add user login to website",
+        "client": "MetaFood",
+        "project": "MetaFood",
+        "timestamp": "2026-10-17 22:05:39",
+        "phase": "implementation",
+        "confidence": "High"
+    },
+    {
+        "id": "12",
+        "description": "Add user login to website",
+        "client": "Jone Deo",
+        "project": "TomSchool",
+        "timestamp": "2026-10-17 22:09:59",
+        "phase": "implementation",
+        "confidence": "High"
+    },
+    {
+        "id": "13",
+        "description": "Add user login to website",
+        "client": "Jone Deo",
+        "project": "TomSchool",
+        "timestamp": "2026-10-17 22:13:43",
+        "phase": "implementation",
+        "confidence": "High"
+    },
+    {
+        "id": "14",
+        "description": "Add student and teacher classes",
+        "client": "Jone Deo",
+        "project": "TomSchool",
+        "timestamp": "2026-10-17 22:14:21",
+        "phase": "implementation",
+        "confidence": "High"
+    },
+    {
+        "id": "15",
+        "description": "Design wireframes for user checkout page",
+        "client": "Camily",
+        "project": "RockRose",
+        "timestamp": "2026-10-17 22:24:46",
+        "phase": "design",
+        "confidence": "High",
+        "artifact_path": "artifacts/design/RockRose_design_doc.md"
+    },
+    {
+        "id": "16",
+        "description": "Create ER digram for student management system",
+        "client": "JP Morgen",
+        "project": "PHYSchool",
+        "timestamp": "2026-10-17 22:37:58",
+        "phase": "design",
+        "confidence": "High",
+        "artifact_path": "artifacts/design/PHYSchool_design_doc.md"
+    },
+    {
+        "id": "17",
+        "description": "Create workflow for register and login user as student",
+        "client": "JJ Thomson",
+        "project": "TVSchool",
+        "timestamp": "2026-10-17 22:46:09",
+        "phase": "implementation",
+        "confidence": "High",
+        "artifact_path": "artifacts/implementation/TVSchool_implementation_doc.md"
+    },
+    {
+        "id": "18",
+        "description": "Create a customer feedback system that allows users to submit ratings and comments about our products",
+        "client": "Acme Corp",
+        "project": "FeedbackHub",
+        "timestamp": "2026-10-17 22:57:15",
+        "phase": "requirements",
+        "confidence": "High",
+        "artifact_path": "artifacts/requirements/FeedbackHub_requirements_doc.md"
+    }
+]
